@@ -9,6 +9,9 @@ Combine with https://github.com/fire/gpuvis/releases to view traces.
 ## Installation instructions
 
 ```
+# Rockylinux Start
+sudo yum install trace-cmd
+# Rockylinux End
 cd {path where project was clone}
 sudo make install
 ```
