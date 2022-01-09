@@ -4,6 +4,8 @@ A tool intended to aid the collection process of gpuvis traces.
 
 It can run either as a daemon or standalone fashion.
 
+Combine with https://github.com/fire/gpuvis/releases to view traces.
+
 ## Installation instructions
 
 ```
